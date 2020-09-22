@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Say</string>
+    <string name="bangla">বাংলা</string>
+    <string name="english">English</string>
+    <string name="delete">Del</string>
+    <string name="exittext">Exit</string>
+    <string name="message">Are you sure?</string>
+    <string name="sorborno">স্বরবর্ণ</string>
+    <string name="byanjon">ব্যাঞ্জণবর্ণ</string>
+    <string name="title_activity_bangla">banglaActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
